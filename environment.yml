@@ -5,3 +5,4 @@ dependencies:
 - jupyterlab~=2.0
 - nodejs>=11
 - jupyterlab-git
+- nbdime
