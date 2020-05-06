@@ -1,4 +1,4 @@
-# PythonTutorial
+# Python Tutorial
 Python Tutorial of Standard Library
 
 # Git commands
