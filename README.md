@@ -8,4 +8,6 @@ git add .
 
 git commit -m "Added Git commands"
 
-git push
+git push 
+
+git pull
